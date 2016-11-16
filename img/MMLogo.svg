@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 218 295">
+  <title>MMLogo</title>
+  <text transform="translate(0 192.7)" font-size="175.56" fill="#be1e2d" font-family="Modernplate, Modern plate"><tspan letter-spacing="-0.73em">M</tspan><tspan x="44.6" y="80.5" fill="#f15a29">M</tspan></text>
+  <g>
+    <path d="M304.5,46.5s-45.7,49.6-21.4,90.4c0,0-7.8-33,21.4-50.5,29.2,17.5,21.4,50.5,21.4,50.5C350.2,96.1,304.5,46.5,304.5,46.5Z" transform="translate(-224.5 -46.5)" fill="#f15a29"/>
+    <path d="M306,111.7s2.9,6.8,0,12.9c0,0-3.4,4.4-7.8-2.2,0,0-10.2,10.2,0,17.7s18.2-5.1,18.2-5.1S321.3,120.6,306,111.7Z" transform="translate(-224.5 -46.5)" fill="#f15a29"/>
+  </g>
+  <g>
+    <path d="M352.5,142.5s-40.9,44.3-19.1,80.9c0,0-7-29.6,19.1-45.2,26.1,15.6,19.1,45.2,19.1,45.2C393.4,186.8,352.5,142.5,352.5,142.5Z" transform="translate(-224.5 -46.5)" fill="#f3eae8"/>
+    <path d="M353.8,200.7s2.6,6.1,0,11.5c0,0-3,3.9-7-2,0,0-9.1,9.1,0,15.9s16.3-4.6,16.3-4.6S367.5,208.8,353.8,200.7Z" transform="translate(-224.5 -46.5)" fill="#f3eae8"/>
+  </g>
+  <text transform="translate(51.5 263.2)" font-size="29.26" fill="#fff" font-family="Modernplate, Modern plate">candles</text>
+</svg>

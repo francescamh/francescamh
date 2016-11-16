@@ -1,0 +1,121 @@
+@charset "utf-8";
+body{
+	background-color: rgba(249,249,249,0.50);
+	}
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 10px;
+  width: auto;
+  margin-left:25px;
+  margin-top:px;
+  }
+.logo .navbar-brand {
+  height: 100px;
+}
+
+.logo .nav >li >a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.logo .navbar-toggle {
+  padding: 10px;
+  margin: 25px 15px 25px 0;
+}.container-fluid #topFixedNavbar1 .nav.navbar-nav.navbar-right {
+	margin-right: 100px;
+	margin-top: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.nav.navbar-nav.navbar-right .active a {
+	width: 113px;
+	color: #F8EFF0;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: large;
+	text-align: center;
+	background-color: #BE1E2D;
+	margin-left: 0px;
+
+}
+.nav.navbar-nav.navbar-right li a {
+	color: #F05A28;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: large;
+	font-weight: 900;
+	width: 145px;
+	text-align: center;
+	height: 50px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-top: 17px;
+	margin-left: 11px;
+}
+
+.jumbotron {
+	background-image: url(../img/Jumbotron2.png);
+	background-color: #E9090D;
+	height: 400px;
+	background-size: cover;
+}
+.row .col-lg-12.text-center h1 {
+	color: #F05A28;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 900;
+}
+
+
+
+
+.thumbnail {
+	margin-bottom:7px;
+}
+
+.red{
+	background-color: #7B1B1B;
+	width: 100%;
+	background-image: url(../img/Orchid%20z%20diod%C4%85%203.jpg);
+	
+	}
+.col-md-6 .form-group label {
+	color: #FFFFFF;
+	font-size: large;
+}
+.margin {
+	margin-bottom: 50px;
+}
+.marginContact{
+	margin-top: 0px;
+	
+	
+	
+	}
+.jumbotron p .btn.btn-primary.btn-lg {
+	background-color: #A21012;
+	left: 15px;
+	margin-left: 0px;
+	padding-bottom: 15px;
+	margin-bottom: 10px;
+}
+.jumbotron.text-center {
+	color: #FFFFFF;
+	margin-top: 0px;
+}
+.jumbotron.text-center .message {
+	background-color: rgba(167,158,159,0.50);
+	width: 100%;
+	margin-top: 157px;
+}
+.modal-content .modal-header .modal-title {
+	color: rgba(0,0,0,1.00);
+}
+.jumbotron.text-center .message .btn.btn-info.btn-lg {
+	background-color: rgba(166,11,14,1.00);
+	margin-bottom: 18px;
+}
+.modal-content .modal-body p {
+	color: #000000;
+}
